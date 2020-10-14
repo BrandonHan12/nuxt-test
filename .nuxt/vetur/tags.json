@@ -1,0 +1,32 @@
+{
+  "Card": {
+    "description": "Auto imported from components/card.vue"
+  },
+  "LazyCard": {
+    "description": "Auto imported from components/card.vue"
+  },
+  "Carousel": {
+    "description": "Auto imported from components/carousel.vue"
+  },
+  "LazyCarousel": {
+    "description": "Auto imported from components/carousel.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "Table": {
+    "description": "Auto imported from components/table.vue"
+  },
+  "LazyTable": {
+    "description": "Auto imported from components/table.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  },
+  "LazyVuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  }
+}

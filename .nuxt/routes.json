@@ -1,0 +1,30 @@
+[
+  {
+    "name": "customer",
+    "path": "/customer",
+    "component": "C:\\\\Users\\\\Brandon Han\\\\Desktop\\\\test2\\\\pages\\\\customer.vue",
+    "chunkName": "pages/customer",
+    "_name": "_c707afd4"
+  },
+  {
+    "name": "customer_list",
+    "path": "/customer_list",
+    "component": "C:\\\\Users\\\\Brandon Han\\\\Desktop\\\\test2\\\\pages\\\\customer_list.vue",
+    "chunkName": "pages/customer_list",
+    "_name": "_2e475ed7"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "C:\\\\Users\\\\Brandon Han\\\\Desktop\\\\test2\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_a55c005c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Brandon Han\\\\Desktop\\\\test2\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e6995c6c"
+  }
+]
